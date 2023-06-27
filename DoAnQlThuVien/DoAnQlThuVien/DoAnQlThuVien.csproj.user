@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FGiveBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FLibrary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FLoanSlip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FPhieuMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FDel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
